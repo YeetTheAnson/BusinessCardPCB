@@ -1,5 +1,5 @@
 Project Name: BusinessCardPCB
-Project Version: #51a36fc5
+Project Version: #61b372e8
 Project Url: https://www.flux.ai/yeettheanson/businesscardpcb
 
 Project Description:
