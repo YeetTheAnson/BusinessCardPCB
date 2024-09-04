@@ -11,4 +11,4 @@ To view the 3d model, click [here](https://www.flux.ai/yeettheanson/businesscard
 ![Bottom view](https://github.com/YeetTheAnson/BusinessCardPCB/raw/main/ProgressPic/pcbrenderbottom.png)
 ![Rendered top view](https://github.com/YeetTheAnson/BusinessCardPCB/raw/main/ProgressPic/3drendertop.png)
 ![Rendered bottom view](https://github.com/YeetTheAnson/BusinessCardPCB/raw/main/ProgressPic/3drenderbottom.png)
-![Finalized view](https://github.com/YeetTheAnson/BusinessCardPCB/raw/main/ProgressPic/hour%5%completed%pcb%preview.png)
+![Finalized view](https://github.com/YeetTheAnson/BusinessCardPCB/blob/main/ProgressPic/hour%205%20completed%20pcb%20preview.png?raw=true)
